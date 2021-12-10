@@ -1,0 +1,41 @@
+div {
+  border: 1px solid black;
+  padding: 25px 50px 75px 100px;
+  background-color: lightblue;
+}
+body {
+    background-color:#8ABD91;
+    border: 15px solid transparent;
+    padding: 15px;
+    border-image: url(https://image.freepik.com/free-photo/wooden-texture_1208-334.jpg) 20 stretch;
+    background-image: url(https://www.freepngimg.com/download/flower/65928-euclidean-vector-border-flower-free-download-png-hd.png);
+    background-size: cover;
+    
+}
+h1{
+    color:#072683;
+    font-family: "Lucida Handwriting",Cursive;
+    text-decoration: underline;
+
+    
+}
+h2{
+    color:#008a8a;
+    font-family: "Georgia",serif;
+    text-decoration: underline;
+
+    
+}
+h3{
+    color:#226767;
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+
+
+}
+p{
+    color: #226767;
+}
+a{
+    color:cornsilk;
+}
